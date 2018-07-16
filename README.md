@@ -13,6 +13,8 @@ React repo :
 
 https://github.com/athulmurali/jamnjam-front
 
+Deployed link :
+https://aqueous-chamber-81757.herokuapp.com/
 
 Note : the google login is not working, on heroku as the api access has been granted only for localhost.
 The prototye does not have anything to do with the node server.
